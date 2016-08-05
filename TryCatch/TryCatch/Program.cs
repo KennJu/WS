@@ -13,7 +13,7 @@ public class Program
 {
         public static void Main()
         {
-            Console.WriteLine("Enter Main..."); 
+            Console.WriteLine("Enter Main to View..."); 
             Program t = new Program();
             t.TestFunc();
             Console.WriteLine("Exit Main...");
